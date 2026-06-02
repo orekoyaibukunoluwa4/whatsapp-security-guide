@@ -1,44 +1,51 @@
-# whatsapp-security-guide
-A technical writing project featuring Markdown guides for WhatsApp security features.
-# WhatsApp Security Suite.
-## Secure Your Account with Two-Factor Authentication on WhatsApp
-Setting up the two-factor authentication on WhatsApp helps secure your account from Unauthorized access and helps you recover your account if need be.
-Easy Steps to Follow to Secure Your Account 
-1.Open **Settings**
- <img width="761" height="242" alt="image" src="https://github.com/user-attachments/assets/7b5f5de4-9ec2-41c2-b622-decf55c31eef" />
 
- 2. Select **Account** 
- <img width="385" height="611" alt="image" src="https://github.com/user-attachments/assets/ae9933ea-1ee3-4f0a-9d8c-bf25ded8b9cf" />
+# WhatsApp Security Suite: User Guide (v1.0)
 
-3. Select **Two-step verification**
- <img width="325" height="700" alt="image" src="https://github.com/user-attachments/assets/ace7b6a5-5a4c-470a-8968-57d0e2c363e0" />
+Welcome to the repository for the **WhatsApp Security Suite User Guide**. This repository hosts the complete, step-by-step technical document designed to help personal and business users safeguard their WhatsApp accounts against unauthorized access, privacy leaks, and hijacking threats.
 
-4. Select **Turn On**
- <img width="334" height="555" alt="image" src="https://github.com/user-attachments/assets/0fd3fbaa-2ef4-4832-b08a-96f0f9cfc848" />
+## About the Document
 
-5. Enter 6-digit pin and reconfirm it
- <img width="331" height="596" alt="image" src="https://github.com/user-attachments/assets/8251fbde-0f0a-4835-a01e-49a6869dd22f" />  <img width="331" height="596" alt="image" src="https://github.com/user-attachments/assets/773b43c2-481d-40e3-a644-313de3d0cf93" />
+The uploaded file, **`WhatsApp_Security_Suite_v1.0 (2).pdf`**, is an independent, practical manual written for educational purposes. It provides clear, actionable instructions accompanied by mobile screenshots to help users properly configure native safety frameworks.
 
-6. Add a valid **Email**
-7. Select **Done**
-> **Note:** Two-step verification adds an extra layer of security to your account by requiring a PIN when registering your phone number again.
+### Key Areas Covered in the Guide:
 
-## How to Hide Status from Specific Contacts
-1.	Open **Settings**
- <img width="761" height="242" alt="image" src="https://github.com/user-attachments/assets/0813968d-db72-4834-a598-04ebb90a7fb8" />
-
-2.	Select **Privacy**
- <img width="385" height="611" alt="image" src="https://github.com/user-attachments/assets/df9ec80e-e2cf-4e8a-aecc-9b68f8f8ca61" />
-
-3.	Select **Status**
- <img width="322" height="634" alt="image" src="https://github.com/user-attachments/assets/a885abee-7db9-48ac-ae13-81950453ec2d" />
-
-4.	Select **My contacts except** and select the contacts you want to exclude
- <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/72c3bde4-82e0-4bfe-8486-dbe3d6457c35" />
-
-5.	Select **Back**
+* **Two-Step Verification (2FA):** Setting up a secure 6-digit PIN and recovery email to prevent account takeovers.
 
 
+* **Status Privacy Controls:** Restricting who can view your ephemeral updates.
 
 
+* **Last Seen & Online Visibility:** Managing your digital footprint and active presence toggles.
 
+
+* **Contact Management:** Blocking and managing unwanted accounts safely.
+
+
+* **Troubleshooting:** Quick fixes for common app configuration and privacy glitches.
+
+---
+
+## Metadata
+
+* **Author:** Ibukunoluwa Elizabeth Orekoya
+
+
+* **Published:** April 2026
+
+
+* **Format:** PDF
+
+
+* **Target Audience:** All WhatsApp Mobile Users (Android & iOS)
+
+
+* **Classification:** Public / Educational Use
+
+> **Important Notice:** This is an independent technical user guide. It is not an official document produced or endorsed by WhatsApp or Meta Platforms, Inc.
+> 
+> 
+---
+
+## How to Use This Repository
+
+Simply download or open the **`WhatsApp_Security_Suite_v1.0 (2).pdf`** file directly from the file list above to access the full step-by-step instructions and screenshots.
